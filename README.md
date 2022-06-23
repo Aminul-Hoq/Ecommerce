@@ -77,4 +77,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js react-router-dom react-hook-form
 
 
- 
+### For backend service using:
+    https://dashboard.chec.io/
+    user-email: project.bin.iit@gmail.com
+
+
+
+
+
+
+
+## React 3D library
+    react krpano hook
